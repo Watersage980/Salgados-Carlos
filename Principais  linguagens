@@ -1,0 +1,19 @@
+- Python: é a linguagem mais utilizada por empresas de tecnologia, criada em 1989 ainda é bastante popular por ser open source e de fácil aprendizado, além de ser bastante versátil. Foi criado para ter uma sintaxe similar a metodologia ABC (Activity Based Costing) mas com acesso ao sistema Amoeba (um sistema operacional baseado em código aberto). Desde de seu desenvolvimento, a linguagem Python tem evoluído sendo bastante utilizada no desenvolvimento web e em machine learning.
+
+- Java: a linguagem Java permite que programas sejam compilados para aparelhos distintos de maneira mais fácil que outras linguagens. Além disso, programas desenvolvidos em Java se adaptam mais facilmente ao crescimento de uso e versões mais antigas continuam funcionando mesmo em versões mais atualizadas.
+
+- JavaScript: apesar de ser mais moderno que o Java, a linguagem JavaScript está em circulação desde a década de 90 e sua universalidade de interação garante que seja uma linguagem popular em empresas, inclusive em setores como machine learning e inteligência artificial. Seu objetivo era permitir o usuário a interagir com os scripts sem passar pelo servidor.
+
+- TypeScript: esta linguagem é um superconjunto de JavaScript em adição a feedback de erros mais rápidos e processos de refatoração mais fáceis, entre outros. Ainda, pode ser adotado gradativamente em uma base de código, contudo devido a sua dificuldade de aprendizado impacta na produtividade da equipe.
+
+- C: a linguagem C é vista como vantajosa por facilitar a portabilidade de aplicações entre dispositivos, não exigir tanta performance e funcionar em quase todos os sistemas.
+
+- C + +: Desenvolvido em 1980, o objetivo do C + + era unir facilidade na hora de escrever códigos de sistemas complexos à agilidade de performance, através da adição de funcionalidades à linguagem C. Da indústria de jogos ao mercado financeiro, grandes aplicações, sistemas operacionais e microcontroladores, o C + + é bastante utilizado por empresas como Facebook, Adobe, Electronic Arts (EA) e até mesmo Google e Microsoft.
+
+- C#: a linguagem C# é outra variação da linguagem C, bastante popular embora já tenha sido mais utilizada. Executado no framework . NET, sua dificuldade é considerada sua maior desvantagem em relação a outras linguagens, contudo ela continua evoluindo se tornando mais fácil até para iniciantes.
+
+- PHP: é principalmente utilizada na escrita de códigos HTML e é uma das linguagens mais utilizadas por gerenciadores de conteúdo. PHP é uma das principais linguagens requisitadas pelas empresas que buscam desenvolvedores back-end ou full-stack.
+
+- Go: Também conhecida como Golang, a Go foi criada em 2007 pelo Google para ser utilizada em Interface de Programação de Aplicações (Application Programming Interface – API) e aplicações Web. Recentemente se destacou no mercado por ser simples e capaz de atender grandes redes e bases extensas de código. Por isso está sendo uma das linguagens de programação que cresce mais rapidamente no mundo da TI.
+
+- Elixir: surgiu em 2014 e é uma linguagem de programação brasileira que tem sido adotada por cada vez mais desenvolvedores ao redor do mundo, que é uma linguagem de código aberto que é executada na Máquina Virtual Erlang (Erlang VM). O principal objetivo da Elixir é oferecer uma programação produtiva para aplicações distribuídas seguras e de fácil manutenção, potencializando os recursos da máquina virtual sobre a qual está fundada sem custos de performance.
