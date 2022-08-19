@@ -1,0 +1,29 @@
+O que um banco de dados:
+Um banco de dados é uma coleção organizada de informações - ou dados - estruturadas, geralmente armazenadas eletronicamente em um sistema de computador. Um banco de dados é geralmente controlado
+por um sistema de gerenciamento de banco de dados (DBMS). Juntos, os dados e o DBMS, junto com aplicativos associados a eles, são chamados de sistema de banco de dados, geralmente abreviados para
+apenas banco de dados.
+Os dados nos tipos mais comuns de bancos de dados em operação atualmente são modelados em linhas e colunas em uma série de tabelas para tornar o processamento e a consulta de dados eficientes.
+Os dados podem ser facilmente acessados, gerenciados, modificados, atualizados, controlados e organizados. A maioria dos bancos de dados usa a linguagem de consulta estruturada (SQL) para escrever
+e consultar dados.
+Tipos de bancos de dados:
+-Bancos de dados relacionais:Os bancos de dados relacionais se tornaram dominantes na década de 1980. Os itens em um banco de dados relacional são organizados como um conjunto de tabelas com
+colunas e linhas. A tecnologia de banco de dados relacional fornece a maneira mais eficiente e flexível de acessar informações estruturadas.
+-Bancos de dados orientados a objetos:As informações em um banco de dados orientado a objetos são representadas na forma de objetos, como na programação orientada a objetos.
+-Bancos de dados distribuídos:Um banco de dados distribuído consiste em dois ou mais arquivos localizados em sites diferentes. O banco de dados pode ser armazenado em vários computadores,
+localizados no mesmo local físico ou espalhados por diferentes redes.
+-Bancos de Dados NoSQL:Um (NoSQL), ou banco de dados não relacional, permite que dados não estruturados e semiestruturados sejam armazenados e manipulados (em contraste com um banco de dados
+relacional, que define como todos os dados inseridos no banco de dados devem ser compostos). Os bancos de dados (NoSQL) se tornaram populares à medida que os aplicativos web se tornaram mais
+comuns e mais complexos.
+- MySQL:O MySQL é um sistema de gerenciamento de banco de dados, que utiliza a linguagem SQL como interface. É atualmente um dos sistemas de gerenciamento de bancos de dados mais populares da
+Oracle Corporation, com mais de 10 milhões de instalações pelo mundo(Linguagem usada:C,C++)
+
+
+
+-Bancos de dados gráficos. Um banco de dados gráfico armazena dados em termos de entidades e os relacionamentos entre entidades.
+-Bancos de dados OLTP. Um banco de dados OLTP é um banco de dados rápido e analítico projetado para um grande número de transações realizadas por vários usuários.
+O que é um software de banco de dados?
+-O software de banco de dados é usado para criar, editar e manter arquivos e registros de banco de dados, facilitando a criação de arquivos e registros, entrada de dados, edição, atualização e
+relatórios de dados. O software também processa armazenamento de dados, backup e relatórios, controle multi acesso e segurança. A segurança forte do banco de dados é especialmente importante hoje,
+    porque o roubo de dados se torna mais frequente. O software de banco de dados às vezes também é conhecido como "sistema de gerenciamento de banco de dados" (DBMS).
+-O software de banco de dados simplifica o gerenciamento de dados, permitindo que os usuários armazenem dados em um formulário estruturado e depois os acessem. Ele normalmente tem uma interface
+gráfica para ajudar a criar e gerenciar os dados e, em alguns casos, os usuários podem construir os próprios bancos de dados usando o software do banco de dados.
