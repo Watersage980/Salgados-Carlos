@@ -1,0 +1,12 @@
+C:\Users\ezequiel.ssantos9\source\repos\Salgados-Carlos\Projeto\Projeto\bin\Debug\Projeto.exe.config
+C:\Users\ezequiel.ssantos9\source\repos\Salgados-Carlos\Projeto\Projeto\bin\Debug\Projeto.exe
+C:\Users\ezequiel.ssantos9\source\repos\Salgados-Carlos\Projeto\Projeto\bin\Debug\Projeto.pdb
+C:\Users\ezequiel.ssantos9\source\repos\Salgados-Carlos\Projeto\Projeto\obj\Debug\Projeto.csproj.AssemblyReference.cache
+C:\Users\ezequiel.ssantos9\source\repos\Salgados-Carlos\Projeto\Projeto\obj\Debug\Projeto.csproj.SuggestedBindingRedirects.cache
+C:\Users\ezequiel.ssantos9\source\repos\Salgados-Carlos\Projeto\Projeto\obj\Debug\Projeto.Cadastro.resources
+C:\Users\ezequiel.ssantos9\source\repos\Salgados-Carlos\Projeto\Projeto\obj\Debug\Projeto.Form1.resources
+C:\Users\ezequiel.ssantos9\source\repos\Salgados-Carlos\Projeto\Projeto\obj\Debug\Projeto.Properties.Resources.resources
+C:\Users\ezequiel.ssantos9\source\repos\Salgados-Carlos\Projeto\Projeto\obj\Debug\Projeto.csproj.GenerateResource.cache
+C:\Users\ezequiel.ssantos9\source\repos\Salgados-Carlos\Projeto\Projeto\obj\Debug\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\ezequiel.ssantos9\source\repos\Salgados-Carlos\Projeto\Projeto\obj\Debug\Projeto.exe
+C:\Users\ezequiel.ssantos9\source\repos\Salgados-Carlos\Projeto\Projeto\obj\Debug\Projeto.pdb

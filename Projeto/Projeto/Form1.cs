@@ -16,5 +16,11 @@ namespace Projeto
         {
             InitializeComponent();
         }
+
+        private void btnCadastrar_Click(object sender, EventArgs e)
+        {
+            Cadastro form = new Cadastro();
+            form.Show();
+        }
     }
 }
