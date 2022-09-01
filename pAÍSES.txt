@@ -1,0 +1,185 @@
+Trunfo
+Grupo 1,Bom:
+
+1-Rússia:              
+Pessoas:144,1 milhões(5)
+Área:17.100.000 km²(8)
+Idade mínima:72(8)
+Desenvolvimento:(9)
+PIB:1,483 trilhão(8)
+
+
+2-Estados Unidos:              
+Pessoas:329,5 milhões(7)
+Área:9.834.000 km²(7)
+Idade mínima:78(8)
+Desenvolvimento:(9)
+PIB:20,94 trilhões(10)
+
+
+3-China:              
+Pessoas:1,402 bilhão(10)
+Área:9.597.000 km²(7)
+Idade mínima:74(7)
+Desenvolvimento:(10)
+PIB:14,72 trilhões(8)
+
+
+4-Japão:              
+Pessoas:125,8 milhões(5)
+Área:377.975 km²(5)
+Idade mínima:84(10)
+Desenvolvimento:(9)
+PIB:5,065 trilhões(7)
+
+
+5-Alemanha:              
+Pessoas:83,24 milhões(4)
+Área:357.588 km²(5)
+Idade mínima:81(9)
+Desenvolvimento:(8)
+PIB:3,806 trilhões(6)
+
+
+6-França:              
+Pessoas:67,39 milhões(4)
+Área:543.940 km²(7)
+Idade mínima:83(9)
+Desenvolvimento:(8)
+PIB:2,603 trilhões(6)
+
+
+7-Portugal:              
+Pessoas:10,31 milhões(4)
+Área:92.212 km²(4)
+Idade mínima:81(8)
+Desenvolvimento:(9)
+PIB:231,3 bilhões(5)
+
+
+8-Canadá:              
+Pessoas:38,01 milhões(5)
+Área:9.985 km²(3)
+Idade mínima:82(8)
+Desenvolvimento:(9)
+PIB:1,643 trilhão(9)
+
+
+9-Reino Unido:              
+Pessoas:
+Área:
+Idade mínima:
+Desenvolvimento:
+PIB:
+
+
+7-Itália:              
+Pessoas:
+Área:
+Idade mínima:
+Desenvolvimento:
+PIB:
+
+
+8-Coreia do Sul:              
+Pessoas:
+Área:
+Idade mínima:
+Desenvolvimento:
+PIB:
+
+
+9-Austrália:              
+Pessoas:
+Área:
+Idade mínima:
+Desenvolvimento:
+PIB:
+
+
+10-Índia:              
+Pessoas:
+Área:
+Idade mínima:
+Desenvolvimento:
+PIB:
+
+
+11-Canadá:              
+Pessoas:
+Área:
+Idade mínima:
+Desenvolvimento:
+PIB:
+
+
+12-México:              
+Pessoas:
+Área:
+Idade mínima:
+Desenvolvimento:
+PIB:
+
+
+13-Argentina:              
+Pessoas:
+Área:
+Idade mínima:
+Desenvolvimento:
+PIB:
+
+
+14-Uruguai:              
+Pessoas:
+Área:
+Idade mínima:
+Desenvolvimento:
+PIB:
+
+
+15-Brasil:              
+Pessoas:
+Área:
+Idade mínima:
+Desenvolvimento:
+PIB:
+
+
+16-Império de Roma:              
+Pessoas:
+Área:
+Idade mínima:
+Desenvolvimento:
+PIB:
+
+
+17-Império Egípcio:             
+Pessoas:
+Área:
+Idade mínima:
+Desenvolvimento:
+PIB:
+
+
+18-Império Grego:
+Pessoas:
+Área:
+Idade mínima:
+Desenvolvimento:
+PIB:
+
+
+19-Domínio Alemão:             
+Pessoas:
+Área:
+Idade mínima:
+Desenvolvimento:
+PIB:
+
+
+20-Antiga união europeia:              
+Pessoas:
+Área:
+Idade mínima:
+Desenvolvimento:
+PIB:
